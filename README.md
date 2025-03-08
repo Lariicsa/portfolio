@@ -15,7 +15,17 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
-##### Tools: `Notion, Markdown, Figma, Github`
+
+**Tools**: `Notion, Markdown, Figma, Github, Trello, Jira`
+
+**Documentation**
+- Setup Environment
+- Frontend guidelines
+- Prettify rules
+- Components implementation guide
 
 
-<div style="text-align: right"> **[View Project »](http://google.com "View Project »")** </div>
+
+> **[View Project »](http://google.com "View Project »")**
+---------
+
