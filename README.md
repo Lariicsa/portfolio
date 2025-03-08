@@ -30,7 +30,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ---------
 
-### [BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")
+### [Montebit]([https://montebit.com/ "Montebit")
 
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
