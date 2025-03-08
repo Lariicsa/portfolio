@@ -26,6 +26,24 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 
 
-> **[View Project »](http://google.com "View Project »")**
+ **[View Project »](http://google.com "View Project »")**
+
 ---------
+
+### [BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")
+
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+
+
+**Tools**: `Notion, Markdown, Figma, Github, Trello, Jira`
+
+**Documentation**
+- Setup Environment
+- Frontend guidelines
+- Prettify rules
+- Components implementation guide
+
+
+ **[View Project »](http://google.com "View Project »")**
+
 
