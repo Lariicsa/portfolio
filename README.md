@@ -54,7 +54,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ---------
 
 
-### [ASC Education]([https://asc.education/ "ASC Education")
+### [ASC Education](https://asc.education/ "ASC Education")
 
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
