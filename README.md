@@ -28,7 +28,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 
 
- **[View Details »](/bajatechnologies/details.md "bajatechnologies")**
+ **[View more »](/bajatechnologies/details.md "bajatechnologies")**
 
 
 ---------
@@ -50,7 +50,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 - User guides
 
 
- **[View Details »](/montebit/details.md "montebit")**
+ **[View more »](/montebit/details.md "montebit")**
 
 
 
@@ -73,6 +73,6 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 
 
- **[View Details »](/asceducation/details.md "asceducation")**
+ **[View more »](/asceducation/details.md "asceducation")**
 
 

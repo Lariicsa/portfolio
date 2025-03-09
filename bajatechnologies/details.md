@@ -23,6 +23,9 @@ After some time and Frontend development I could understand complete project as 
 
 The complete underestanding of environment, stack and projects let me be supported by team members (project manager, testers, developers, CTO anddevops) to create high level documentation.
 
------------
 
 :link: _[BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")_
+
+-------
+
+ :house: **[Back to Home](/README.md)**
