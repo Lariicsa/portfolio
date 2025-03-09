@@ -1,3 +1,4 @@
+:arrow_left: **[Back to Home](/README.md)**
 ## BajaTechnologies Documentation
 
 :wrench: **Tools**: `Notion, Markdown, Figma, Github, Trello, Jira`
@@ -27,5 +28,4 @@ The complete underestanding of environment, stack and projects let me be support
 :link: _[BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")_
 
 -------
-
- :house: **[Back to Home](/README.md)**
+:arrow_left: **[Back to Home](/README.md)**

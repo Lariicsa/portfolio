@@ -1,3 +1,4 @@
+:arrow_left: **[Back to Home](/README.md)**
 ## Montebit Documentation
 
 :wrench: **Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
@@ -28,4 +29,4 @@ Project Manager, Developers, stakeholders, sellers, community managers and the t
 :link: [Montebit](https://Montebit.com/ "Montebit")
 
 ------------
- :house: **[Back to Home](/README.md)**
+ :arrow_left: **[Back to Home](/README.md)**
