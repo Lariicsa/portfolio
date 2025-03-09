@@ -3,6 +3,7 @@
 
 
 ## Abstract
+
 With over 12 years of experience in the Tech industry I have got different skills and knowledge, so that lets me understand the I.T. environments.
 I have created manuals, guides, and code rules for web apps, APIs, and testing apps. All of them have been satisfactory and useful.
 I am very interested in Prompt Engineering and all related to A.I.
@@ -19,6 +20,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 **Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
 
 **Documentation**
+
 - Setup Environment
 - Frontend guidelines
 - Prettify rules
@@ -40,6 +42,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 **Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
 
 **Documentation**
+
 - Setup Frotend Environment
 - Frontend guidelines
 - Setup Testing Environment
@@ -47,7 +50,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 - User guides
 
 
- **[View Project »](/montebit/details.md "montebit")**
+ **[View Details »](/montebit/details.md "montebit")**
 
 
 
@@ -62,6 +65,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 **Tools**: `Wordpress, Jekyllrb, Material design, Github, Postman, AdobeXD, Zeplin, Confluence`
 
 **Documentation**
+
 - Frontend guidelines
 - API guides
 - User guides
