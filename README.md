@@ -19,7 +19,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 :wrench: **Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
 
-**Documentation**
+:bookmark_tabs: **Documentation**
 
 - Setup Environment
 - Frontend guidelines
@@ -34,14 +34,14 @@ I am very interested in Prompt Engineering and all related to A.I.
 ---------
 
 
-### [Montebit](https://Montebit.com/ "Montebit")
+### [Montebit](/montebit/details.md)
 
 ![](/montebit/assets/mb_abstract.png)
 
 
-**Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
+:wrench: **Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
 
-**Documentation**
+:bookmark_tabs: **Documentation**
 
 - Setup Frotend Environment
 - Frontend guidelines
@@ -57,14 +57,14 @@ I am very interested in Prompt Engineering and all related to A.I.
 ---------
 
 
-### [ASC Education](https://asc.education/ "ASC Education")
+### [ASC Education](/asceducation/details.md)
 
 ![](/asceducation/assets/asc_abstract.png)
 
 
-**Tools**: `Wordpress, Jekyllrb, Material Design, Github, Postman, AdobeXD, Zeplin, Confluence`
+:wrench: **Tools**: `Wordpress, Jekyllrb, Material Design, Github, Postman, AdobeXD, Zeplin, Confluence`
 
-**Documentation**
+:bookmark_tabs: **Documentation**
 
 - Frontend guidelines
 - API guides

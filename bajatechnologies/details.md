@@ -25,4 +25,4 @@ The complete underestanding of environment, stack and projects let me be support
 
 -----------
 
->[BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")
+:link: _[BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")_
