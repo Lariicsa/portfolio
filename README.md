@@ -37,7 +37,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 
-**Tools**: `Gitlab, Markdown, AdobeXD, Trello, Monday, Postman, GoogleDocs`
+**Tools**: `Gitlab, Markdown, AdobeXD, Zeplin, Trello, Monday, Postman, GoogleDocs`
 
 **Documentation**
 - Setup Frotend Environment
