@@ -1,3 +1,5 @@
+ :arrow_left: **[Back to Home](/README.md)**
+ 
 ## ASC Education Documentation
 
 :wrench: **Tools**: `Wordpress, Jekyllrb, Material Design, Github, Postman, AdobeXD, Zeplin, Confluence`
@@ -28,4 +30,4 @@ Once I started as a UX/UI Designer and after developed some frontend components 
 :link: [ASC Education](https://asc.education/ "ASC Education")
 
 ------------
- :house: **[Back to Home](/README.md)**
+ :arrow_left: **[Back to Home](/README.md)**
