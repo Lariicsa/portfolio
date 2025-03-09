@@ -5,8 +5,9 @@
 At ASC I started as a UX/UI Designer, after a few months I started developing some frontend components, got requirements to design wireframes and UI designs.
 And for each frontend environment I created documentation and style guides.
 
-![](/montebit/assets/mb_details_1.png)
-![](/montebit/assets/mb_details_2.png)
+![](/asceducation/assets/asc_details_1.png)
+![](/asceducation/assets/asc_details_2.png)
+
 
 
 **What I used:**
