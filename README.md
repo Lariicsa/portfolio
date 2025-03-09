@@ -12,12 +12,12 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ## Projects
 
-### [BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")
+### [BajaTechnologies](/bajatechnologies/details.md)
 
 ![](/bajatechnologies/assets/bt_abstract.png)
 
 
-**Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
+:wrench: **Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
 
 **Documentation**
 
