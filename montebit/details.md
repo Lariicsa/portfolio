@@ -2,8 +2,12 @@
 
 **Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
 
-At Montebit I staterd developing complete frontend of one of main eCommerce in the Holding. Then when I started leadeing frontend area I developed guidelines, user manuals, developer setup documentation and testing manuals for new members in teams.
+At Montebit I started developing complete frontend of one of main eCommerce in the Holding. Then when I started leadeing frontend area I developed guidelines, user manuals, developer setup documentation and testing manuals for new members in teams.
 Also I trained Jr Testers in team to maintain documentation and tests and mentored new frontend members in team.
+
+![](/montebit/assets/mb_details_1.png)
+![](/montebit/assets/mb_details_2.png)
+
 
 **What I used:**
 

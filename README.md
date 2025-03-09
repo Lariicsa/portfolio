@@ -62,7 +62,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ![](/asceducation/assets/asc_abstract.png)
 
 
-**Tools**: `Wordpress, Jekyllrb, Material design, Github, Postman, AdobeXD, Zeplin, Confluence`
+**Tools**: `Wordpress, Jekyllrb, Material Design, Github, Postman, AdobeXD, Zeplin, Confluence`
 
 **Documentation**
 

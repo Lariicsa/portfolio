@@ -4,6 +4,10 @@
 
 At BT I started as a Frontend developer at Latouraine Inc (adult entertainment software client), where I developed from scratch the UI for a social media project, after 2 years due to the demand for documentation, I decided to participate in the creation, maintenance and correction of documents, guides and rules for the project.
 
+![](/bajatechnologies/assets/bt_details_1.png)
+![](/bajatechnologies/assets/bt_details_2.png)
+
+
 **What I'm using:**
 
 - Confluence for global documentation like Hosts, setup, files, variables, etc.
