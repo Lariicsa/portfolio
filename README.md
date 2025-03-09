@@ -14,7 +14,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ### [BajaTechnologies](https://bajatechnologies.com/ "BajaTechnologies")
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](/bajatechnologies/assets/bt_abstract.png)
 
 
 **Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
@@ -36,7 +36,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ### [Montebit](https://Montebit.com/ "Montebit")
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](/montebit/assets/mb_abstract.png)
 
 
 **Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
@@ -59,7 +59,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 
 ### [ASC Education](https://asc.education/ "ASC Education")
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](/asceducation/assets/asc_abstract.png)
 
 
 **Tools**: `Wordpress, Jekyllrb, Material design, Github, Postman, AdobeXD, Zeplin, Confluence`
