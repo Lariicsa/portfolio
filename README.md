@@ -16,7 +16,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 
-**Tools**: `Notion, Markdown, Figma, Github, Trello, Jira`
+**Tools**: `Jira, Trello, Gitflow, Scrum, Notion,  markdown,  JSON, XML, REST API,  Adobe XD, Figma, Visual Studio`
 
 **Documentation**
 - Setup Environment
@@ -37,7 +37,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 
-**Tools**: `Gitlab, Markdown, AdobeXD, Zeplin, Trello, Monday, Postman, GoogleDocs`
+**Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
 
 **Documentation**
 - Setup Frotend Environment
@@ -59,7 +59,7 @@ I am very interested in Prompt Engineering and all related to A.I.
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
 
-**Tools**: `Github, Markdown, Zeplin, Trello, Postman, Confluence`
+**Tools**: `Wordpress, Jekyllrb, Material design, Github, Postman, AdobeXD, Zeplin, Confluence`
 
 **Documentation**
 - Frontend guidelines

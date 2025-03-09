@@ -1,6 +1,6 @@
 ## Montebit Documentation
 
-**Tools**: `Gitlab, Markdown, AdobeXD, Zeplin, Trello, Monday, Postman, GoogleDocs`
+**Tools**: `Trello, Gitlab, Scrum, Zeplin, Google Docs,  markdown, JSON, XML, REST API, Postman, Figma`
 
 At Montebit I staterd developing complete frontend of one of main eCommerce in the Holding. Then when I started leadeing frontend area I developed guidelines, user manuals, developer setup documentation and testing manuals for new members in teams.
 Also I trained Jr Testers in team to maintain documentation and tests and mentored new frontend members in team.
